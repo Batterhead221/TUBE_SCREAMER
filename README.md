@@ -1,4 +1,4 @@
 # TUBE_SCREAMER
-Tube Screamer guitare pedal clone
+Tube Screamer guitar pedal clone
 
 WORK IN PROGRESS
